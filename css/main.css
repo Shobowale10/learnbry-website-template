@@ -144,8 +144,6 @@ header {
     cursor: pointer;
     padding: 10px 0;
     background-color: #99D8D8;
-    mix-blend-mode: screen;
-    background-repeat: no-repeat;
 }
 
 .card-line-button:hover {
